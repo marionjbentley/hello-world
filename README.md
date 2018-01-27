@@ -1,2 +1,2 @@
 # hello-world
-first entry in git
+I like video games, ninja warrior and tacos.
